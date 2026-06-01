@@ -1,0 +1,8 @@
+"","category","term","number_of_genes","number_of_genes_in_background","ncbiTaxonId","inputGenes","preferredNames","p_value","fdr","description"
+"7","Process","GO:0009447",6,10,511145,"511145.b1297,511145.b1298,511145.b1299,511145.b1300,511145.b1301,511145.b1302","puuA,puuD,puuR,puuC,puuB,puuE",2.03e-11,6.37e-08,"Putrescine catabolic process"
+"8","Process","GO:0042956",4,5,511145,"511145.b4033,511145.b4034,511145.b4035,511145.b4036","malF,malE,malK,lamB",3.06e-08,1.37e-05,"Maltodextrin transmembrane transport"
+"9","Process","GO:0015768",4,6,511145,"511145.b4033,511145.b4034,511145.b4035,511145.b4036","malF,malE,malK,lamB",5.08e-08,2e-05,"Maltose transport"
+"10","Process","GO:0008643",5,127,511145,"511145.b4033,511145.b4034,511145.b4035,511145.b4036,511145.b4037","malF,malE,malK,lamB,malM",0.00018,0.0345,"Carbohydrate transport"
+"11","Process","GO:1904981",2,3,511145,"511145.b4033,511145.b4035","malF,malK",0.00018,0.0345,"Maltose transmembrane transport"
+"12","Process","GO:1902344",2,4,511145,"511145.b4033,511145.b4035","malF,malK",0.00026,0.0434,"Negative regulation of maltose transport"
+"13","Process","GO:0033036",5,142,511145,"511145.b0598,511145.b4033,511145.b4034,511145.b4035,511145.b4036","cstA,malF,malE,malK,lamB",3e-04,0.0455,"Macromolecule localization"

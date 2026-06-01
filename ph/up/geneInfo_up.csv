@@ -1,0 +1,79 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"B0024","yaaY","B0024",949128,"protein_coding","Escherichia coli","NC_000913.3",0.021181,"DUF2575 domain-containing protein YaaY",NA,1,219,219,219,NA,NA,0
+"B0124","gcd","B0124",944830,"protein_coding","Escherichia coli","NC_000913.3",0.138835,"quinoprotein glucose dehydrogenase",NA,1,2391,2391,2391,NA,NA,0
+"B0287","yagU","B0287",945677,"protein_coding","Escherichia coli","NC_000913.3",0.302991,"DUF1440 domain-containing inner membrane protein YagU",NA,1,615,615,615,NA,NA,0
+"B0485","glsA","B0485",946187,"protein_coding","Escherichia coli","NC_000913.3",0.511641,"glutaminase 1",NA,1,933,933,933,NA,NA,0
+"B4589","ylcI","B4589",5061499,"protein_coding","Escherichia coli","NC_000913.3",0.580251,"DUF3950 domain-containing protein YlcI",NA,1,195,195,195,NA,NA,0
+"B0564","appY","B0564",948797,"protein_coding","Escherichia coli","NC_000913.3",0.583681,"DNA-binding transcriptional activator AppY",NA,1,750,750,750,NA,NA,0
+"B0836","bssR","B0836",945466,"protein_coding","Escherichia coli","NC_000913.3",0.878248,"regulator of biofilm formation",NA,1,384,384,384,NA,NA,0
+"B0937","ssuE","B0937",945947,"protein_coding","Escherichia coli","NC_000913.3",0.996937,"NADPH-dependent FMN reductase",NA,1,576,576,576,NA,NA,0
+"B0972","hyaA","B0972",945579,"protein_coding","Escherichia coli","NC_000913.3",1.032139,"hydrogenase 1 small subunit",NA,1,1119,1119,1119,NA,NA,0
+"B0978","appC","B0978",945585,"protein_coding","Escherichia coli","NC_000913.3",1.03774,"cytochrome bd-II subunit 1",NA,1,1545,1545,1545,NA,NA,0
+"B0979","appB","B0979",947547,"protein_coding","Escherichia coli","NC_000913.3",1.039296,"cytochrome bd-II subunit 2",NA,1,1137,1137,1137,NA,NA,0
+"B0980","appA","B0980",946206,"protein_coding","Escherichia coli","NC_000913.3",1.040617,"periplasmic phosphoanhydride phosphatase/multiple inositol-polyphosphate phosphatase",NA,1,1299,1299,1299,NA,NA,0
+"B4518","ymdF","B4518",945598,"protein_coding","Escherichia coli","NC_000913.3",1.068081,"stress-induced bacterial acidophilic repeat motifs-containing protein YmdF",NA,1,174,174,174,NA,NA,0
+"B1189","dadA","B1189",945752,"protein_coding","Escherichia coli","NC_000913.3",1.237571,"D-amino acid dehydrogenase",NA,1,1299,1299,1299,NA,NA,0
+"B1190","dadX","B1190",945754,"protein_coding","Escherichia coli","NC_000913.3",1.238879,"alanine racemase 2",NA,1,1071,1071,1071,NA,NA,0
+"B1195","ymgE","B1195",945760,"protein_coding","Escherichia coli","NC_000913.3",1.244728,"PF04226 family protein YmgE",NA,1,255,255,255,NA,NA,0
+"B1224","narG","B1224",945782,"protein_coding","Escherichia coli","NC_000913.3",1.279864,"nitrate reductase A subunit alpha",NA,1,3744,3744,3744,NA,NA,0
+"B1225","narH","B1225",945780,"protein_coding","Escherichia coli","NC_000913.3",1.283604,"nitrate reductase A subunit beta",NA,1,1539,1539,1539,NA,NA,0
+"B1226","narJ","B1226",945807,"protein_coding","Escherichia coli","NC_000913.3",1.285139,"nitrate reductase 1 molybdenum cofactor assembly chaperone",NA,1,711,711,711,NA,NA,0
+"B1227","narI","B1227",945808,"protein_coding","Escherichia coli","NC_000913.3",1.285849,"nitrate reductase A subunit gamma",NA,1,678,678,678,NA,NA,0
+"B1256","ompW","B1256",945128,"protein_coding","Escherichia coli","NC_000913.3",1.31402,"outer membrane protein W",NA,1,639,639,639,NA,NA,0
+"B4743","ynaL","B4743",38094955,"protein_coding","Escherichia coli","NC_000913.3",1.409308,"protein YnaL",NA,1,174,174,174,NA,NA,0
+"B1467","narY","B1467",946034,"protein_coding","Escherichia coli","NC_000913.3",1.537309,"nitrate reductase Z subunit beta",NA,1,1545,1545,1545,NA,NA,0
+"B1468","narZ","B1468",945999,"protein_coding","Escherichia coli","NC_000913.3",1.53885,"nitrate reductase Z subunit alpha",NA,1,3741,3741,3741,NA,NA,0
+"B1469","narU","B1469",945799,"protein_coding","Escherichia coli","NC_000913.3",1.542672,"nitrate/nitrite transporter NarU",NA,1,1389,1389,1389,NA,NA,0
+"B1492","gadC","B1492",946057,"protein_coding","Escherichia coli","NC_000913.3",1.568954,"L-glutamate:4-aminobutyrate antiporter",NA,1,1536,1536,1536,NA,NA,0
+"B1493","gadB","B1493",946058,"protein_coding","Escherichia coli","NC_000913.3",1.570645,"glutamate decarboxylase B",NA,1,1401,1401,1401,NA,NA,0
+"B1499","ydeO","B1499",945922,"protein_coding","Escherichia coli","NC_000913.3",1.582926,"DNA-binding transcriptional dual regulator YdeO",NA,1,762,762,762,NA,NA,0
+"B1500","safA","B1500",946061,"protein_coding","Escherichia coli","NC_000913.3",1.583762,"two-component system connector SafA",NA,1,198,198,198,NA,NA,0
+"B1501","ydeP","B1501",946055,"protein_coding","Escherichia coli","NC_000913.3",1.584207,"putative oxidoreductase YdeP",NA,1,2280,2280,2280,NA,NA,0
+"B1541","ydfZ","B1541",948796,"protein_coding","Escherichia coli","NC_000913.3",1.629215,"putative selenoprotein YdfZ",NA,1,204,204,204,NA,NA,0
+"B1593","bidA","B1593",944927,"protein_coding","Escherichia coli","NC_000913.3",1.666524,"dethiobiotin synthetase BidA",NA,1,696,696,696,NA,NA,0
+"B1597","asr","B1597",945103,"protein_coding","Escherichia coli","NC_000913.3",1.671376,"periplasmic chaperone Asr",NA,1,309,309,309,NA,NA,0
+"B1760","ynjH","B1760",946279,"protein_coding","Escherichia coli","NC_000913.3",1.841863,"DUF1496 domain-containing protein YnjH",NA,1,273,273,273,NA,NA,0
+"B1795","yeaQ","B1795",946311,"protein_coding","Escherichia coli","NC_000913.3",1.879007,"PF04226 family protein YeaQ",NA,1,249,249,249,NA,NA,0
+"B1797","yeaR","B1797",946317,"protein_coding","Escherichia coli","NC_000913.3",1.879589,"DUF1971 domain-containing protein YeaR",NA,1,360,360,360,NA,NA,0
+"B2082","ogrK","B2082",945404,"protein_coding","Escherichia coli","NC_000913.3",2.167302,"prophage P2 late control protein OgrK",NA,1,219,219,219,NA,NA,0
+"B2085","yegR","B2085",946613,"protein_coding","Escherichia coli","NC_000913.3",2.167989,"uncharacterized protein YegR",NA,1,318,318,318,NA,NA,0
+"B2210","mqo","B2210",946702,"protein_coding","Escherichia coli","NC_000913.3",2.305108,"malate:quinone oxidoreductase",NA,1,1647,1647,1647,NA,NA,0
+"B2215","ompC","B2215",946716,"protein_coding","Escherichia coli","NC_000913.3",2.311646,"outer membrane porin C",NA,1,1104,1104,1104,NA,NA,0
+"B2252","ais","B2252",944945,"protein_coding","Escherichia coli","NC_000913.3",2.365018,"putative lipopolysaccharide core heptose(II)-phosphate phosphatase",NA,1,603,603,603,NA,NA,0
+"B2253","arnB","B2253",947375,"protein_coding","Escherichia coli","NC_000913.3",2.36591,"UDP-4-amino-4-deoxy-L-arabinose aminotransferase",NA,1,1158,1158,1158,NA,NA,0
+"B2254","arnC","B2254",945275,"protein_coding","Escherichia coli","NC_000913.3",2.367071,"undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase",NA,1,969,969,969,NA,NA,0
+"B2255","arnA","B2255",947683,"protein_coding","Escherichia coli","NC_000913.3",2.368039,"fused UDP-4-amino-4-deoxy-L-arabinose formyltransferase/UDP-glucuronate dehydrogenase",NA,1,1983,1983,1983,NA,NA,0
+"B2367","emrY","B2367",946835,"protein_coding","Escherichia coli","NC_000913.3",2.480638,"tripartite efflux pump membrane subunit EmrY",NA,1,1539,1539,1539,NA,NA,0
+"B2368","emrK","B2368",946840,"protein_coding","Escherichia coli","NC_000913.3",2.482176,"tripartite efflux pump membrane fusion protein EmrK",NA,1,1164,1164,1164,NA,NA,0
+"B2371","yfdE","B2371",946432,"protein_coding","Escherichia coli","NC_000913.3",2.488023,"acetyl-CoA:oxalate CoA-transferase",NA,1,1146,1146,1146,NA,NA,0
+"B2372","yfdV","B2372",949110,"protein_coding","Escherichia coli","NC_000913.3",2.489242,"putative transport protein YfdV",NA,1,945,945,945,NA,NA,0
+"B2373","oxc","B2373",946845,"protein_coding","Escherichia coli","NC_000913.3",2.490256,"oxalyl-CoA decarboxylase",NA,1,1695,1695,1695,NA,NA,0
+"B2374","frc","B2374",946842,"protein_coding","Escherichia coli","NC_000913.3",2.492004,"formyl-CoA transferase",NA,1,1251,1251,1251,NA,NA,0
+"B2375","yfdX","B2375",949108,"protein_coding","Escherichia coli","NC_000913.3",2.493767,"protein YfdX",NA,1,636,636,636,NA,NA,0
+"B2579","grcA","B2579",947068,"protein_coding","Escherichia coli","NC_000913.3",2.716066,"stress-induced alternate pyruvate formate-lyase subunit",NA,1,384,384,384,NA,NA,0
+"B3158","ubiU","B3158",949115,"protein_coding","Escherichia coli","NC_000913.3",3.301485,"ubiquinone biosynthesis protein UbiU",NA,1,996,996,996,NA,NA,0
+"B3365","nirB","B3365",947868,"protein_coding","Escherichia coli","NC_000913.3",3.494011,"nitrite reductase (NADH) large subunit",NA,1,2544,2544,2544,NA,NA,0
+"B3366","nirD","B3366",947881,"protein_coding","Escherichia coli","NC_000913.3",3.496551,"nitrite reductase (NADH) small subunit",NA,1,327,327,327,NA,NA,0
+"B3408","feoA","B3408",947909,"protein_coding","Escherichia coli","NC_000913.3",3.540163,"ferrous iron transport protein A",NA,1,228,228,228,NA,NA,0
+"B3491","yhiM","B3491",947997,"protein_coding","Escherichia coli","NC_000913.3",3.634841,"inner membrane protein YhiM",NA,1,1053,1053,1053,NA,NA,0
+"B3506","slp","B3506",948022,"protein_coding","Escherichia coli","NC_000913.3",3.653961,"starvation lipoprotein",NA,1,567,567,567,NA,NA,0
+"B3508","yhiD","B3508",948019,"protein_coding","Escherichia coli","NC_000913.3",3.655255,"inner membrane protein YhiD",NA,1,648,648,648,NA,NA,0
+"B3509","hdeB","B3509",948026,"protein_coding","Escherichia coli","NC_000913.3",3.655966,"periplasmic acid stress chaperone HdeB",NA,1,327,327,327,NA,NA,0
+"B3510","hdeA","B3510",948025,"protein_coding","Escherichia coli","NC_000913.3",3.656408,"periplasmic acid stress chaperone HdeA",NA,1,333,333,333,NA,NA,0
+"B3511","hdeD","B3511",948024,"protein_coding","Escherichia coli","NC_000913.3",3.656995,"acid-resistance membrane protein",NA,1,573,573,573,NA,NA,0
+"B3512","gadE","B3512",948023,"protein_coding","Escherichia coli","NC_000913.3",3.658366,"DNA-binding transcriptional activator GadE",NA,1,528,528,528,NA,NA,0
+"B3513","mdtE","B3513",948031,"protein_coding","Escherichia coli","NC_000913.3",3.659232,"multidrug efflux pump membrane fusion protein MdtE",NA,1,1158,1158,1158,NA,NA,0
+"B3514","mdtF","B3514",948030,"protein_coding","Escherichia coli","NC_000913.3",3.660414,"multidrug efflux pump RND permease MdtF",NA,1,3114,3114,3114,NA,NA,0
+"B3515","gadW","B3515",948029,"protein_coding","Escherichia coli","NC_000913.3",3.66389,"DNA-binding transcriptional dual regulator GadW",NA,1,729,729,729,NA,NA,0
+"B3516","gadX","B3516",948028,"protein_coding","Escherichia coli","NC_000913.3",3.664986,"DNA-binding transcriptional dual regulator GadX",NA,1,825,825,825,NA,NA,0
+"B3517","gadA","B3517",948027,"protein_coding","Escherichia coli","NC_000913.3",3.66618,"glutamate decarboxylase A",NA,1,1401,1401,1401,NA,NA,0
+"B3615","waaH","B3615",948140,"protein_coding","Escherichia coli","NC_000913.3",3.789047,"UDP-glucuronate:LPS(HepIII) glycosyltransferase",NA,1,1035,1035,1035,NA,NA,0
+"B4114","eptA","B4114",948629,"protein_coding","Escherichia coli","NC_000913.3",4.333947,"phosphoethanolamine transferase EptA",NA,1,1644,1644,1644,NA,NA,0
+"B4122","fumB","B4122",948642,"protein_coding","Escherichia coli","NC_000913.3",4.34568,"fumarase B",NA,1,1647,1647,1647,NA,NA,0
+"B4123","dcuB","B4123",948641,"protein_coding","Escherichia coli","NC_000913.3",4.347404,"anaerobic C4-dicarboxylate transporter DcuB",NA,1,1341,1341,1341,NA,NA,0
+"B4154","frdA","B4154",948667,"protein_coding","Escherichia coli","NC_000913.3",4.38051,"fumarate reductase flavoprotein subunit",NA,1,1809,1809,1809,NA,NA,0
+"B4354","btsT","B4354",948914,"protein_coding","Escherichia coli","NC_000913.3",4.589129,"pyruvate:H(+) symporter",NA,1,2151,2151,2151,NA,NA,0
+"B4567","yjjZ","B4567",1450313,"protein_coding","Escherichia coli","NC_000913.3",4.605804,"DUF1435 domain-containing protein YjjZ",NA,1,237,237,237,NA,NA,0
+"B4377","yjjU","B4377",948906,"protein_coding","Escherichia coli","NC_000913.3",4.612411,"putative patatin-like phospholipase YjjU",NA,1,1074,1074,1074,NA,NA,0
+"B4378","yjjV","B4378",2847741,"protein_coding","Escherichia coli","NC_000913.3",4.613481,"putative metal-dependent hydrolase YjjV",NA,1,780,780,780,NA,NA,0
+"B2083","yegZ","B2083",949050,"pseudogene","Escherichia coli","NC_000913.3",2.167602,NA,NA,1,219,NA,219,NA,NA,NA

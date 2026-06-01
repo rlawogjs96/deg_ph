@@ -1,0 +1,4 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+1.98059407665978e-07,7,11,19.811004784689,"Path:eco01310 Nitrogen cycle","https://www.genome.jp/kegg-bin/show_pathway?eco01310","narG narH narI narY narZ nirB nirD"
+4.41822037081117e-06,8,24,10.3771929824561,"Path:eco00910 Nitrogen metabolism","https://www.genome.jp/kegg-bin/show_pathway?eco00910","narG narH narI narY narZ narU nirB nirD"
+1.15344758553708e-05,18,174,3.22050816696915,"Path:eco02020 Two-component system","https://www.genome.jp/kegg-bin/show_pathway?eco02020","glsA appY hyaA appC appB narG narH narJ narI narY narZ safA ompC arnB emrY emrK dcuB frdA"
